@@ -2,6 +2,10 @@
 Downloadable minesweeper made in Visual Basic .NET
 
 ## Instructions
+### Switch branches
+- Click where it says main
+- Switch to master 
+
 ### Download 
 - Click on the green "Code" button at the top of this repo
 - Click "Download Zip"
